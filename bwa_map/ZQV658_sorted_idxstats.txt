@@ -1,0 +1,79 @@
+AEKH01000001.1 Lactobacillus iners LEAF 2053A-b contig00098, whole genome shotgun sequence	17307	2	0
+AEKH01000002.1 Lactobacillus iners LEAF 2053A-b contig00088, whole genome shotgun sequence	10633	8	0
+AEKH01000003.1 Lactobacillus iners LEAF 2053A-b contig00033, whole genome shotgun sequence	579	0	0
+AEKH01000004.1 Lactobacillus iners LEAF 2053A-b contig00011, whole genome shotgun sequence	62112	32	0
+AEKH01000005.1 Lactobacillus iners LEAF 2053A-b contig00043, whole genome shotgun sequence	102150	30	0
+AEKH01000006.1 Lactobacillus iners LEAF 2053A-b contig00028, whole genome shotgun sequence	14662	0	0
+AEKH01000007.1 Lactobacillus iners LEAF 2053A-b contig00006, whole genome shotgun sequence	14326	2	0
+AEKH01000008.1 Lactobacillus iners LEAF 2053A-b contig00004, whole genome shotgun sequence	16642	4	0
+AEKH01000009.1 Lactobacillus iners LEAF 2053A-b contig00029, whole genome shotgun sequence	7482	6	0
+AEKH01000010.1 Lactobacillus iners LEAF 2053A-b contig00050, whole genome shotgun sequence	305165	170	0
+AEKH01000011.1 Lactobacillus iners LEAF 2053A-b contig00023, whole genome shotgun sequence	56530	35	0
+AEKH01000012.1 Lactobacillus iners LEAF 2053A-b contig00046, whole genome shotgun sequence	59191	31	0
+AEKH01000013.1 Lactobacillus iners LEAF 2053A-b contig00042, whole genome shotgun sequence	3009	8	0
+AEKH01000014.1 Lactobacillus iners LEAF 2053A-b contig00048, whole genome shotgun sequence	20382	14	0
+AEKH01000015.1 Lactobacillus iners LEAF 2053A-b contig00032, whole genome shotgun sequence	690	0	0
+AEKH01000016.1 Lactobacillus iners LEAF 2053A-b contig00018, whole genome shotgun sequence	71396	40	0
+AEKH01000017.1 Lactobacillus iners LEAF 2053A-b contig00040, whole genome shotgun sequence	9956	0	0
+AEKH01000018.1 Lactobacillus iners LEAF 2053A-b contig00014, whole genome shotgun sequence	3874	0	0
+AEKH01000019.1 Lactobacillus iners LEAF 2053A-b contig00062, whole genome shotgun sequence	2541	324	0
+AEKH01000020.1 Lactobacillus iners LEAF 2053A-b contig00102, whole genome shotgun sequence	43006	16	0
+AEKH01000021.1 Lactobacillus iners LEAF 2053A-b contig00015, whole genome shotgun sequence	92692	36	0
+AEKH01000022.1 Lactobacillus iners LEAF 2053A-b contig00037, whole genome shotgun sequence	4394	2	0
+AEKH01000023.1 Lactobacillus iners LEAF 2053A-b contig00017, whole genome shotgun sequence	1412	226	0
+AEKH01000024.1 Lactobacillus iners LEAF 2053A-b contig00038, whole genome shotgun sequence	6748	4	0
+AEKH01000025.1 Lactobacillus iners LEAF 2053A-b contig00049, whole genome shotgun sequence	78642	26	0
+AEKH01000026.1 Lactobacillus iners LEAF 2053A-b contig00010, whole genome shotgun sequence	86947	60	0
+AEKH01000027.1 Lactobacillus iners LEAF 2053A-b contig00105, whole genome shotgun sequence	4070	4	0
+AEKH01000028.1 Lactobacillus iners LEAF 2053A-b contig00007, whole genome shotgun sequence	169771	88	0
+AEKH01000029.1 Lactobacillus iners LEAF 2053A-b contig00013, whole genome shotgun sequence	643	64	0
+AEKH01000030.1 Lactobacillus iners LEAF 2053A-b contig00016, whole genome shotgun sequence	1428	41	0
+AEKH01000031.1 Lactobacillus iners LEAF 2053A-b contig00019, whole genome shotgun sequence	7904	14	0
+AEKH01000032.1 Lactobacillus iners LEAF 2053A-b contig00012, whole genome shotgun sequence	7255	6	0
+AEKH01000033.1 Lactobacillus iners LEAF 2053A-b contig00008, whole genome shotgun sequence	2689	0	0
+AEKH01000034.1 Lactobacillus iners LEAF 2053A-b contig00099, whole genome shotgun sequence	56255	8	0
+AEKH01000035.1 Lactobacillus iners LEAF 2053A-b contig00113, whole genome shotgun sequence	1654	6	0
+AEKH01000036.1 Lactobacillus iners LEAF 2053A-b contig00030, whole genome shotgun sequence	10631	2	0
+AEKH01000037.1 Lactobacillus iners LEAF 2053A-b contig00009, whole genome shotgun sequence	13949	0	0
+CAAKNZ010000001.1 Bifidobacterium breve isolate Bifidobacterium breve MC1 genome assembly, contig: gnlWUSMEFCGSSBBBRMC1 1, whole genome shotgun sequence	75577	3804	0
+CAAKNZ010000002.1 Bifidobacterium breve isolate Bifidobacterium breve MC1 genome assembly, contig: gnlWUSMEFCGSSBBBRMC1 10, whole genome shotgun sequence	3738	124	0
+CAAKNZ010000003.1 Bifidobacterium breve isolate Bifidobacterium breve MC1 genome assembly, contig: gnlWUSMEFCGSSBBBRMC1 11, whole genome shotgun sequence	8063	274	0
+CAAKNZ010000004.1 Bifidobacterium breve isolate Bifidobacterium breve MC1 genome assembly, contig: gnlWUSMEFCGSSBBBRMC1 12, whole genome shotgun sequence	20397	1006	0
+CAAKNZ010000005.1 Bifidobacterium breve isolate Bifidobacterium breve MC1 genome assembly, contig: gnlWUSMEFCGSSBBBRMC1 13, whole genome shotgun sequence	582	15	0
+CAAKNZ010000006.1 Bifidobacterium breve isolate Bifidobacterium breve MC1 genome assembly, contig: gnlWUSMEFCGSSBBBRMC1 14, whole genome shotgun sequence	6708	133	0
+CAAKNZ010000007.1 Bifidobacterium breve isolate Bifidobacterium breve MC1 genome assembly, contig: gnlWUSMEFCGSSBBBRMC1 15, whole genome shotgun sequence	6538	710	0
+CAAKNZ010000008.1 Bifidobacterium breve isolate Bifidobacterium breve MC1 genome assembly, contig: gnlWUSMEFCGSSBBBRMC1 16, whole genome shotgun sequence	27992	2462	0
+CAAKNZ010000009.1 Bifidobacterium breve isolate Bifidobacterium breve MC1 genome assembly, contig: gnlWUSMEFCGSSBBBRMC1 17, whole genome shotgun sequence	25347	1605	0
+CAAKNZ010000010.1 Bifidobacterium breve isolate Bifidobacterium breve MC1 genome assembly, contig: gnlWUSMEFCGSSBBBRMC1 18, whole genome shotgun sequence	931	30	0
+CAAKNZ010000011.1 Bifidobacterium breve isolate Bifidobacterium breve MC1 genome assembly, contig: gnlWUSMEFCGSSBBBRMC1 19, whole genome shotgun sequence	42657	2359	0
+CAAKNZ010000012.1 Bifidobacterium breve isolate Bifidobacterium breve MC1 genome assembly, contig: gnlWUSMEFCGSSBBBRMC1 2, whole genome shotgun sequence	677	14	0
+CAAKNZ010000013.1 Bifidobacterium breve isolate Bifidobacterium breve MC1 genome assembly, contig: gnlWUSMEFCGSSBBBRMC1 20, whole genome shotgun sequence	27272	1243	0
+CAAKNZ010000014.1 Bifidobacterium breve isolate Bifidobacterium breve MC1 genome assembly, contig: gnlWUSMEFCGSSBBBRMC1 21, whole genome shotgun sequence	3456	478	0
+CAAKNZ010000015.1 Bifidobacterium breve isolate Bifidobacterium breve MC1 genome assembly, contig: gnlWUSMEFCGSSBBBRMC1 22, whole genome shotgun sequence	1995	3	0
+CAAKNZ010000016.1 Bifidobacterium breve isolate Bifidobacterium breve MC1 genome assembly, contig: gnlWUSMEFCGSSBBBRMC1 23, whole genome shotgun sequence	17012	2099	0
+CAAKNZ010000017.1 Bifidobacterium breve isolate Bifidobacterium breve MC1 genome assembly, contig: gnlWUSMEFCGSSBBBRMC1 24, whole genome shotgun sequence	4656	1141	0
+CAAKNZ010000018.1 Bifidobacterium breve isolate Bifidobacterium breve MC1 genome assembly, contig: gnlWUSMEFCGSSBBBRMC1 25, whole genome shotgun sequence	245919	12620	0
+CAAKNZ010000019.1 Bifidobacterium breve isolate Bifidobacterium breve MC1 genome assembly, contig: gnlWUSMEFCGSSBBBRMC1 26, whole genome shotgun sequence	590	117	0
+CAAKNZ010000020.1 Bifidobacterium breve isolate Bifidobacterium breve MC1 genome assembly, contig: gnlWUSMEFCGSSBBBRMC1 27, whole genome shotgun sequence	7206	947	0
+CAAKNZ010000021.1 Bifidobacterium breve isolate Bifidobacterium breve MC1 genome assembly, contig: gnlWUSMEFCGSSBBBRMC1 28, whole genome shotgun sequence	9966	612	0
+CAAKNZ010000022.1 Bifidobacterium breve isolate Bifidobacterium breve MC1 genome assembly, contig: gnlWUSMEFCGSSBBBRMC1 29, whole genome shotgun sequence	51883	2313	0
+CAAKNZ010000023.1 Bifidobacterium breve isolate Bifidobacterium breve MC1 genome assembly, contig: gnlWUSMEFCGSSBBBRMC1 3, whole genome shotgun sequence	81132	3826	0
+CAAKNZ010000024.1 Bifidobacterium breve isolate Bifidobacterium breve MC1 genome assembly, contig: gnlWUSMEFCGSSBBBRMC1 30, whole genome shotgun sequence	24656	75	0
+CAAKNZ010000025.1 Bifidobacterium breve isolate Bifidobacterium breve MC1 genome assembly, contig: gnlWUSMEFCGSSBBBRMC1 31, whole genome shotgun sequence	46083	3284	0
+CAAKNZ010000026.1 Bifidobacterium breve isolate Bifidobacterium breve MC1 genome assembly, contig: gnlWUSMEFCGSSBBBRMC1 32, whole genome shotgun sequence	119489	6728	0
+CAAKNZ010000027.1 Bifidobacterium breve isolate Bifidobacterium breve MC1 genome assembly, contig: gnlWUSMEFCGSSBBBRMC1 33, whole genome shotgun sequence	224720	13758	0
+CAAKNZ010000028.1 Bifidobacterium breve isolate Bifidobacterium breve MC1 genome assembly, contig: gnlWUSMEFCGSSBBBRMC1 34, whole genome shotgun sequence	160679	8021	0
+CAAKNZ010000029.1 Bifidobacterium breve isolate Bifidobacterium breve MC1 genome assembly, contig: gnlWUSMEFCGSSBBBRMC1 35, whole genome shotgun sequence	752	4	0
+CAAKNZ010000030.1 Bifidobacterium breve isolate Bifidobacterium breve MC1 genome assembly, contig: gnlWUSMEFCGSSBBBRMC1 36, whole genome shotgun sequence	140252	8732	0
+CAAKNZ010000031.1 Bifidobacterium breve isolate Bifidobacterium breve MC1 genome assembly, contig: gnlWUSMEFCGSSBBBRMC1 37, whole genome shotgun sequence	317959	14513	0
+CAAKNZ010000032.1 Bifidobacterium breve isolate Bifidobacterium breve MC1 genome assembly, contig: gnlWUSMEFCGSSBBBRMC1 38, whole genome shotgun sequence	1819	79	0
+CAAKNZ010000033.1 Bifidobacterium breve isolate Bifidobacterium breve MC1 genome assembly, contig: gnlWUSMEFCGSSBBBRMC1 39, whole genome shotgun sequence	230918	9991	0
+CAAKNZ010000034.1 Bifidobacterium breve isolate Bifidobacterium breve MC1 genome assembly, contig: gnlWUSMEFCGSSBBBRMC1 4, whole genome shotgun sequence	114245	6223	0
+CAAKNZ010000035.1 Bifidobacterium breve isolate Bifidobacterium breve MC1 genome assembly, contig: gnlWUSMEFCGSSBBBRMC1 40, whole genome shotgun sequence	428	5	0
+CAAKNZ010000036.1 Bifidobacterium breve isolate Bifidobacterium breve MC1 genome assembly, contig: gnlWUSMEFCGSSBBBRMC1 5, whole genome shotgun sequence	25854	54	0
+CAAKNZ010000037.1 Bifidobacterium breve isolate Bifidobacterium breve MC1 genome assembly, contig: gnlWUSMEFCGSSBBBRMC1 6, whole genome shotgun sequence	4045	221	0
+CAAKNZ010000038.1 Bifidobacterium breve isolate Bifidobacterium breve MC1 genome assembly, contig: gnlWUSMEFCGSSBBBRMC1 7, whole genome shotgun sequence	1961	492	0
+CAAKNZ010000039.1 Bifidobacterium breve isolate Bifidobacterium breve MC1 genome assembly, contig: gnlWUSMEFCGSSBBBRMC1 8, whole genome shotgun sequence	25245	4314	0
+CAAKNZ010000040.1 Bifidobacterium breve isolate Bifidobacterium breve MC1 genome assembly, contig: gnlWUSMEFCGSSBBBRMC1 9, whole genome shotgun sequence	277897	19252	0
+LR698953.1 Bifidobacterium longum isolate MGYG-HGUT-01292 genome assembly, chromosome: 1	2832748	408764	0
+*	0	0	0

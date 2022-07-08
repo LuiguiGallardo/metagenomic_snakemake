@@ -1,0 +1,3 @@
+AEKH01.1_genomicPWG2699	0.001661396554378592	Lactobacillus inersls
+CAAKNZ01.1_genomic	PWG269	0.6488379529293534	Bifidobacterium breve
+GCF_902381625.1_genomic	PWG269	0.349500650516268	Bifidobacterium longum
